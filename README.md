@@ -1,5 +1,5 @@
 ### 😄 MooSong, Song
-- :school: 숭실대학교 소프트웨어학부 정보보안융합전공 재학 (2017. 03 ~ 현재)
+- :school: 숭실대학교 소프트웨어학부 정보보안 융합전공 재학 (2017. 03 ~ 현재)
 
 ### 🔭 Skills
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
