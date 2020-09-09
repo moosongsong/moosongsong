@@ -2,8 +2,8 @@
 - :school: 숭실대학교 소프트웨어학부 정보보안융합전공 재학 (2017. 03 ~ 현재)
 
 ### 🔭 Skills
-![Java](https://img.shields.io/badge/Java-333)
-![javascript](https://img.shields.io/badge/-JAVA-007396?logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![javascript](https://img.shields.io/badge/-JavaScript-F7Df1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6db33f)
 
 ### 👯 Projects
