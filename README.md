@@ -3,7 +3,7 @@
 
 ### 🔭 Skills
 ![Java](https://img.shields.io/badge/Java-333)
-![javascript](https://img.shields.io/badge/dynamic/xml?style=plastic&logo=Java)
+![javascript](https://img.shields.io/badge/badge/java?logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6db33f)
 
 ### 👯 Projects
