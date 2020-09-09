@@ -1,5 +1,7 @@
-### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=moosongsong)](https://github.com/anuraghazra/github-readme-stats)
+
+### MooSong, Song
+- :school: 숭실대학교 소프트웨어학부 정보보안융합전공 재학 (2017. 03 ~ 현재)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
