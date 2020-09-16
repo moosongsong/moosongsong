@@ -17,11 +17,12 @@
 ![oracle](https://img.shields.io/badge/-oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 💻 IDE WHICH I USE
-![intellijidea](https://img.shields.io/badge/-Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![intellij](https://img.shields.io/badge/-Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![webstorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
 ![clion](https://img.shields.io/badge/-CLion-000000?style=flat-square&logo=clion&logoColor=white)
-![visualstudio](https://img.shields.io/badge/-VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![atom](https://img.shields.io/badge/-Atom-66595C?style=flat-square&logo=atom&logoColor=white)
 ![eclipse](https://img.shields.io/badge/-eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
+![visualstudio](https://img.shields.io/badge/-VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 
 ### 📂 Projects
 &nbsp;&nbsp;📃 [교환학생 커뮤니티 : ForeignLove](https://github.com/moosongsong/WEB_Project_ForeignLove)
