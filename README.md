@@ -13,6 +13,8 @@
 ![React](https://img.shields.io/badge/-ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-mariadbfoundation-1F305F?style=for-the-badge&logo=mariadbfoundation&logoColor=white)
+![mysql](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![oracle](https://img.shields.io/badge/-oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 📂 Projects
 &nbsp;&nbsp;📃 [교환학생 커뮤니티 : ForeignLove](https://github.com/moosongsong/WEB_Project_ForeignLove)
