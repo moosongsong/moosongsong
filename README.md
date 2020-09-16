@@ -1,7 +1,7 @@
 ### 👩 MooSong, Song
 &nbsp;&nbsp;🏫 : 숭실대학교 소프트웨어학부 정보보안 융합전공 재학 (2017. 03 ~ 현재)
 
-### 💻 Skills
+### 💡 Skills
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)
@@ -15,6 +15,9 @@
 ![MariaDB](https://img.shields.io/badge/-mariadbfoundation-1F305F?style=for-the-badge&logo=mariadbfoundation&logoColor=white)
 ![mysql](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![oracle](https://img.shields.io/badge/-oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 💻 IDE WHICH I USE
+![intellijidea](https://img.shields.io/badge/-intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ### 📂 Projects
 &nbsp;&nbsp;📃 [교환학생 커뮤니티 : ForeignLove](https://github.com/moosongsong/WEB_Project_ForeignLove)
