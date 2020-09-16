@@ -11,6 +11,8 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![javascript](https://img.shields.io/badge/-JavaScript-F7Df1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-mariadbfoundation-1F305F?style=for-the-badge&logo=mariadbfoundation&logoColor=white)
 
 ### 📂 Projects
 &nbsp;&nbsp;📃 [교환학생 커뮤니티 : ForeignLove](https://github.com/moosongsong/WEB_Project_ForeignLove)
