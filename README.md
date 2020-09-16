@@ -17,7 +17,8 @@
 ![oracle](https://img.shields.io/badge/-oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 💻 IDE WHICH I USE
-![intellijidea](https://img.shields.io/badge/-intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![intellijidea](https://img.shields.io/badge/-Intellij-000000?style=flat-square&logo=intellij&logoColor=white)
+![webstorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
 
 ### 📂 Projects
 &nbsp;&nbsp;📃 [교환학생 커뮤니티 : ForeignLove](https://github.com/moosongsong/WEB_Project_ForeignLove)
