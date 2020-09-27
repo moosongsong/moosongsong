@@ -11,13 +11,13 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white)
 ![javascript](https://img.shields.io/badge/-JavaScript-F7Df1E?style=flat-square&logo=JavaScript&logoColor=black)
-![React](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 ![mysql](https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![jquery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+<!--[React](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black)-->
 
 ### 💻 IDE I USE
 ![intellij](https://img.shields.io/badge/-Intellij-000000?style=flat-square&logo=jetbrains&logoColor=white)
