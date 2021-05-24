@@ -16,7 +16,7 @@
 ![mysql](https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=mysql&logoColor=white)
 <!--![oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)-->
 ![jquery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+<!-- ![nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=node.js&logoColor=white) -->
 <!--[React](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black)-->
 
 ### 💻 IDE I USE
