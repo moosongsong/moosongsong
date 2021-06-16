@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=300&section=header&text=Moosong%20Song&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20%20%20%20%20%20%20%20This%20is%20my%20profile&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=300&section=header&text=Moosong%20Song&fontSize=90&animation=fadeIn&fontAlignY=38&desc=This%20is%20my%20profile&descAlignY=62&descAlign=62)
 
 
 ### 👩 MooSong, Song
