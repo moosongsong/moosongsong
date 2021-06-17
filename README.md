@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=Moosong%20Song&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
-<!-- <p align='center'>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoosongsong&count_bg=%23E3826C&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false"/></a>
-</p>
-<br/> -->
 <h3 align='center'>🛠 Skills 🛠</h3>
 <br/>
 <p align='center'>
@@ -21,7 +17,9 @@
   <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
 </p>
 
 
