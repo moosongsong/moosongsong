@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=300&section=header&text=Moosong%20Song&fontSize=90&animation=fadeIn&fontAlignY=38&desc=This%20is%20my%20profile&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=300&section=header&text=Moosong%20Song&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23E3826C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 👩 MooSong, Song
 - 🏫 : 동일여자고등학교 (2014. 03 ~ 2017. 02)
@@ -17,10 +18,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 ![mysql](https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=mysql&logoColor=white)
-<!--![oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)-->
 ![jquery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-<!-- ![nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=node.js&logoColor=white) -->
-<!--[React](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black)-->
 
 ### 💻 IDE I USE
 ![intellij](https://img.shields.io/badge/-Intellij-000000?style=flat-square&logo=jetbrains&logoColor=white)
@@ -39,8 +37,6 @@
 - 📃 [1인 가구 전용 마감음식 픽업 서비스 : 1인의 만찬](https://github.com/moosongsong/Dinner41_Spring_Project)
   
 - 📃 [교육용 패킷 스니핑 응용 프로그램 : WireSSU](https://github.com/moosongsong/JAVA_Project_WireSSU)
-
-<!-- - 📃 [Ncurses FTP 파일 전송 프로그램](https://github.com/moosongsong/FTP_SERVER_in_C_LINUX) -->
 
 [![moosongsong's github stats](https://github-readme-stats.vercel.app/api?username=moosongsong)](https://github.com/moosongsong)
 
