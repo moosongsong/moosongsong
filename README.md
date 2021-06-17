@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=Moosong%20Song&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
-<p align='center'>
+<!-- <p align='center'>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoosongsong&count_bg=%23E3826C&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false"/></a>
 </p>
-<br/>
+<br/> -->
 <h3 align='center'>🛠 Skills 🛠</h3>
 <br/>
 <p align='center'>
@@ -29,13 +29,13 @@
 - 🏫 : 동일여자고등학교 (2014. 03 ~ 2017. 02)
 - 🏫 : 숭실대학교 소프트웨어학부 정보보안 융합전공 재학 (2017. 03 ~ 현재)
 
-
+<!-- 
 ### 💻 IDE I USE
 ![intellij](https://img.shields.io/badge/-Intellij-000000?style=flat-square&logo=jetbrains&logoColor=white)
 ![webstorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
 ![clion](https://img.shields.io/badge/-CLion-000000?style=flat-square&logo=jetbrains&logoColor=white)
 ![pycharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![atom](https://img.shields.io/badge/-Atom-66595C?style=flat-square&logo=atom&logoColor=white)
+![atom](https://img.shields.io/badge/-Atom-66595C?style=flat-square&logo=atom&logoColor=white) -->
 
 ### 📂 Projects
 - 📃 [온라인 전시회 플랫폼 : ARTA](https://github.com/moosongsong/OnlineExhibition_ver1)
