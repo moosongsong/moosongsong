@@ -1,17 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=300&section=header&text=Moosong%20Song&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=Moosong%20Song&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 <p align='center'>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23E3826C&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false"/></a>
-  
-</p>
-
-
-### 👩 MooSong, Song
-- 🏫 : 동일여자고등학교 (2014. 03 ~ 2017. 02)
-- 🏫 : 숭실대학교 소프트웨어학부 정보보안 융합전공 재학 (2017. 03 ~ 현재)
-
-### 💡 Skills
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black)
+  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
@@ -23,6 +14,16 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 ![mysql](https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![jquery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+  
+</p>
+
+
+### 👩 MooSong, Song
+- 🏫 : 동일여자고등학교 (2014. 03 ~ 2017. 02)
+- 🏫 : 숭실대학교 소프트웨어학부 정보보안 융합전공 재학 (2017. 03 ~ 현재)
+
+### 💡 Skills
+
 
 ### 💻 IDE I USE
 ![intellij](https://img.shields.io/badge/-Intellij-000000?style=flat-square&logo=jetbrains&logoColor=white)
