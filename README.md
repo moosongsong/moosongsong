@@ -43,6 +43,10 @@
   
 - 📃 [교육용 패킷 스니핑 응용 프로그램 : WireSSU](https://github.com/moosongsong/JAVA_Project_WireSSU)
 
-[![moosongsong's github stats](https://github-readme-stats.vercel.app/api?username=moosongsong)](https://github.com/moosongsong)
+<!-- [![moosongsong's github stats](https://github-readme-stats.vercel.app/api?username=moosongsong)](https://github.com/moosongsong) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moosongsong&layout=compact)](https://github.com/moosongsong)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moosongsong&layout=compact)](https://github.com/moosongsong) -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moosongsong&show_icons=true&locale=en&layout=compact" alt="moosongsong" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moosongsong&show_icons=true&locale=en" alt="moosongsong" /></p>
