@@ -21,10 +21,10 @@
   <img src="https://img.shields.io/badge/-AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
 </p>
 
-
+<!-- 
 ### 👩 MooSong, Song
 - 🏫 : 동일여자고등학교 (2014. 03 ~ 2017. 02)
-- 🏫 : 숭실대학교 소프트웨어학부 정보보안 융합전공 재학 (2017. 03 ~ 현재)
+- 🏫 : 숭실대학교 소프트웨어학부 정보보안 융합전공 재학 (2017. 03 ~ 현재) -->
 
 <!-- 
 ### 💻 IDE I USE
@@ -43,10 +43,6 @@
   
 - 📃 [교육용 패킷 스니핑 응용 프로그램 : WireSSU](https://github.com/moosongsong/JAVA_Project_WireSSU)
 
-<!-- [![moosongsong's github stats](https://github-readme-stats.vercel.app/api?username=moosongsong)](https://github.com/moosongsong) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moosongsong&layout=compact)](https://github.com/moosongsong) -->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moosongsong&show_icons=true&locale=en&layout=compact" alt="moosongsong" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moosongsong&show_icons=true&locale=en" alt="moosongsong" /></p>
+[![moosongsong's github stats](https://github-readme-stats.vercel.app/api?username=moosongsong)](https://github.com/moosongsong)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moosongsong&layout=compact)](https://github.com/moosongsong)
+<!-- [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=songe08)](https://solved.ac/profile/songe08) -->
