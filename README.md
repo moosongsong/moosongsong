@@ -35,13 +35,13 @@
 ![atom](https://img.shields.io/badge/-Atom-66595C?style=flat-square&logo=atom&logoColor=white) -->
 
 ### 📂 Projects
-- 📃 [ARTA : 사용자 맞춤형 온라인 전시회 플랫폼](https://github.com/moosongsong/OnlineExhibition_ver1)
+- 📃 [ARTA : 사용자 맞춤형 온라인 전시회 플랫폼 (2021 상반기)](https://github.com/moosongsong/OnlineExhibition_ver1)
   
-- 📃 [1인의 만찬 : 1인 가구 전용 마감음식 픽업 서비스](https://github.com/moosongsong/Dinner41_Spring_Project)
+- 📃 [1인의 만찬 : 1인 가구 전용 마감음식 픽업 서비스 (2020 하반기)](https://github.com/moosongsong/Dinner41_Spring_Project)
 
-- 📃 [Foreign Love : 교환학생 커뮤니티](https://github.com/moosongsong/WEB_Project_ForeignLove)
+- 📃 [Foreign Love : 교환학생 커뮤니티 (2020 상반기)](https://github.com/moosongsong/WEB_Project_ForeignLove)
   
-- 📃 [Wire SSU : 교육용 패킷 스니핑 가시화 서비스](https://github.com/moosongsong/JAVA_Project_WireSSU)
+- 📃 [Wire SSU : 교육용 패킷 스니핑 가시화 서비스 (2019 상반기)](https://github.com/moosongsong/JAVA_Project_WireSSU)
 
 [![moosongsong's github stats](https://github-readme-stats.vercel.app/api?username=moosongsong)](https://github.com/moosongsong)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moosongsong&layout=compact)](https://github.com/moosongsong)
