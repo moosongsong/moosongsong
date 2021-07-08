@@ -42,10 +42,10 @@
   
 - 📃 [Wire SSU : 교육용 패킷 스니핑 가시화 서비스 (2019 상반기)](https://github.com/moosongsong/JAVA_Project_WireSSU)
 
-### 📚 STUDY
+### 📚 Study
 
 - 📃 [공부 기록](https://github.com/moosongsong/ALL_ABOUT_STUDY)
 
 [![moosongsong's github stats](https://github-readme-stats.vercel.app/api?username=moosongsong)](https://github.com/moosongsong)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moosongsong&layout=compact)](https://github.com/moosongsong)
-<!-- [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=songe08)](https://solved.ac/profile/songe08) -->
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=songe08)](https://solved.ac/profile/songe08)
