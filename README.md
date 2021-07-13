@@ -20,18 +20,6 @@
   <img src="https://img.shields.io/badge/-AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
 </p>
 
-<!-- 
-### 👩 MooSong, Song
-- 🏫 : 동일여자고등학교 (2014. 03 ~ 2017. 02)
-- 🏫 : 숭실대학교 소프트웨어학부 정보보안 융합전공 재학 (2017. 03 ~ 현재) -->
-
-<!-- 
-### 💻 IDE I USE
-![intellij](https://img.shields.io/badge/-Intellij-000000?style=flat-square&logo=jetbrains&logoColor=white)
-![webstorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
-![clion](https://img.shields.io/badge/-CLion-000000?style=flat-square&logo=jetbrains&logoColor=white)
-![pycharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![atom](https://img.shields.io/badge/-Atom-66595C?style=flat-square&logo=atom&logoColor=white) -->
 
 ### 📂 Projects
 - 📃 [ARTA : 사용자 맞춤형 온라인 전시회 플랫폼 (2021 상반기)](https://github.com/moosongsong/OnlineExhibition_ver1)
@@ -48,4 +36,4 @@
 
 [![moosongsong's github stats](https://github-readme-stats.vercel.app/api?username=moosongsong)](https://github.com/moosongsong)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moosongsong&layout=compact)](https://github.com/moosongsong)
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=songe08)](https://solved.ac/profile/songe08)
+<!-- [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=songe08)](https://solved.ac/profile/songe08) -->
