@@ -12,8 +12,8 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/-JavaScript-F7Df1E?style=flat-square&logo=JavaScript&logoColor=black"/> -->
-<!--   <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/-JavaScript-F7Df1E?style=flat-square&logo=JavaScript&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/> -->
   <br/>
   <img src="https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
