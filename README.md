@@ -2,7 +2,7 @@
 - 🎂 1998.02.08
 - 💻 Back-end Developer
 
-## 💡 What I'm learning right now.
+## 🌱 What I'm learning now.
 <p>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
@@ -44,6 +44,6 @@
 ## 📚 Study
 
 - 📃 [공부 기록](https://github.com/moosongsong/ALL_ABOUT_STUDY)
-- 
+
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=songe08)](https://solved.ac/profile/songe08)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moosongsong&layout=compact)](https://github.com/moosongsong)
