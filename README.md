@@ -1,8 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=Moosong%20Song&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62) -->
-## 👩🏻‍💻 송무송 ( Moo Song Song )
-- Back-end Developer
-
-<br/>
+# 👩🏻‍💻 송무송 ( Moo Song Song )
+#### Back-end Developer
 
 ## 💡 What I'm learning right now.
 <p>
@@ -10,8 +8,6 @@
   <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 </p>
-
-<br/>
 
 ## 🛠 Skills
 <p>
@@ -31,25 +27,24 @@
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/-AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
 </p>
-<br/>
 
 ## 📂 Projects
 
-- 📃 [ARTA : 사용자 맞춤형 온라인 전시회 플랫폼 (2021 상반기)](https://github.com/moosongsong/OnlineExhibition_ver1)
+- 🎨 [ARTA : 사용자 맞춤형 온라인 전시회 플랫폼](https://github.com/moosongsong/project-arta-django)
   
-- 📃 [1인의 만찬 : 1인 가구 전용 마감음식 픽업 서비스 (2020 하반기)](https://github.com/moosongsong/Dinner41_Spring_Project)
+- 🍽 [1인의 만찬 : 1인 가구 전용 마감음식 픽업 서비스](https://github.com/moosongsong/project-dinner41-spring)
 
-- 📃 [Foreign Love : 교환학생 커뮤니티 (2020 상반기)](https://github.com/moosongsong/WEB_Project_ForeignLove)
+- 🌎 [Foreign Love : 교환학생 커뮤니티 (2020 상반기)](https://github.com/moosongsong/project-foreign-love-servlet)
   
-- 📃 [Wire SSU : 교육용 패킷 스니핑 가시화 서비스 (2019 상반기)](https://github.com/moosongsong/JAVA_Project_WireSSU)
+- 🗺 [Wire SSU : 교육용 패킷 스니핑 가시화 서비스 (2019 상반기)](https://github.com/moosongsong/project-wire-ssu-java)
 
-<br/>
+- 💡 [뿌리뿌리 : java swing을 이용한 마인드맵 프로그램](https://github.com/moosongsong/project-mindmap-java)
+
 
 ## 📚 Study
 
 - 📃 [공부 기록](https://github.com/moosongsong/ALL_ABOUT_STUDY)
 
-<br/>
 
 <!-- [![moosongsong's github stats](https://github-readme-stats.vercel.app/api?username=moosongsong)](https://github.com/moosongsong) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moosongsong&layout=compact)](https://github.com/moosongsong)
