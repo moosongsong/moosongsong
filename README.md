@@ -34,9 +34,9 @@
   
 - 🍽 [1인의 만찬 : 1인 가구 전용 마감음식 픽업 서비스](https://github.com/moosongsong/project-dinner41-spring)
 
-- 🌎 [Foreign Love : 교환학생 커뮤니티 (2020 상반기)](https://github.com/moosongsong/project-foreign-love-servlet)
+- 🌎 [Foreign Love : 교환학생 커뮤니티](https://github.com/moosongsong/project-foreign-love-servlet)
   
-- 🗺 [Wire SSU : 교육용 패킷 스니핑 가시화 서비스 (2019 상반기)](https://github.com/moosongsong/project-wire-ssu-java)
+- 🗺 [Wire SSU : 교육용 패킷 스니핑 가시화 서비스](https://github.com/moosongsong/project-wire-ssu-java)
 
 - 💡 [뿌리뿌리 : java swing을 이용한 마인드맵 프로그램](https://github.com/moosongsong/project-mindmap-java)
 
@@ -44,6 +44,6 @@
 ## 📚 Study
 
 - 📃 [공부 기록](https://github.com/moosongsong/ALL_ABOUT_STUDY)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moosongsong&layout=compact)](https://github.com/moosongsong)
+- 
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=songe08)](https://solved.ac/profile/songe08)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moosongsong&layout=compact)](https://github.com/moosongsong)
