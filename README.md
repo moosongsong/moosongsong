@@ -1,13 +1,11 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=Moosong%20Song&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62) -->
-# 송무송
+# 송무송 ( Moo Song Song )
 
-### Moo Song Song
+### Back-end Developer
 
-## Back-end Developer
+## 💡 What I'm learning right now.
 
-<h3 align='center'>🛠 Skills 🛠</h3>
-<br/>
-<p align='center'>
+## 🛠 Skills 🛠
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -24,8 +22,6 @@
   <img src="https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/-AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
-</p>
-
 
 ### 📂 Projects
 - 📃 [ARTA : 사용자 맞춤형 온라인 전시회 플랫폼 (2021 상반기)](https://github.com/moosongsong/OnlineExhibition_ver1)
