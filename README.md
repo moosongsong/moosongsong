@@ -1,6 +1,6 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=Moosong%20Song&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62) -->
-# 👩🏻‍💻 송무송 ( Moo Song Song )
-#### Back-end Developer
+# 👩🏻‍💻 송무송 ( Moo Song, Song )
+- 🎂 1998.02.08
+- 💻 Back-end Developer
 
 ## 💡 What I'm learning right now.
 <p>
@@ -45,7 +45,5 @@
 
 - 📃 [공부 기록](https://github.com/moosongsong/ALL_ABOUT_STUDY)
 
-
-<!-- [![moosongsong's github stats](https://github-readme-stats.vercel.app/api?username=moosongsong)](https://github.com/moosongsong) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moosongsong&layout=compact)](https://github.com/moosongsong)
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=songe08)](https://solved.ac/profile/songe08)
