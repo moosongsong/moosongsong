@@ -1,4 +1,4 @@
-# 👩🏻‍💻 송무송 ( Moo Song, Song )
+# ✨ 송무송 ( Moo Song, Song )
 - 🎂 1998.02.08
 - 💻 Back-end Developer
 - _[WEB](https://moosongsong.github.io/)_
