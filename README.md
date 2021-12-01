@@ -28,6 +28,8 @@
 
 ## 📂 Projects
 
+- 🏡 [M : 하우스 메이트 매칭, 공동 생활 관리 서비스 제공 플랫폼](https://github.com/MeetNMate)
+
 - 🎨 [ARTA : 사용자 맞춤형 온라인 전시회 플랫폼](https://github.com/moosongsong/project-arta-django)
   
 - 🍽 [1인의 만찬 : 1인 가구 전용 마감음식 픽업 서비스](https://github.com/moosongsong/project-dinner41-spring)
