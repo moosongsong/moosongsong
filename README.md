@@ -15,17 +15,12 @@
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7Df1E?style=flat-square&logo=JavaScript&logoColor=black"/> 
-  <br/>
   <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
 </p>
 
+<!-- 
 ## 📂 Projects
 
 - 🏡 [MNM : 하우스 메이트 매칭, 공동 생활 관리 서비스 제공 플랫폼](https://github.com/MeetNMate)
@@ -40,7 +35,7 @@
 
 - 💡 [뿌리뿌리 : java swing을 이용한 마인드맵 프로그램](https://github.com/moosongsong/project-mindmap-java)
 
-<!-- 
+
 ## 📚 Study
 
 - 📃 [공부 기록](https://github.com/moosongsong/ALL_ABOUT_STUDY)
