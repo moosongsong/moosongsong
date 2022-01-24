@@ -41,5 +41,5 @@
 - 📃 [공부 기록](https://github.com/moosongsong/ALL_ABOUT_STUDY)
 
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=songe08)](https://solved.ac/profile/songe08)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moosongsong&layout=compact)](https://github.com/moosongsong) -->
-[![Moosong's github activity graph](https://activity-graph.herokuapp.com/graph?username=moosongsong&theme=react-dark)](https://github.com/moosongsong)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moosongsong&layout=compact)](https://github.com/moosongsong) 
+[![Moosong's github activity graph](https://activity-graph.herokuapp.com/graph?username=moosongsong&theme=react-dark)](https://github.com/moosongsong)-->
