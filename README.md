@@ -22,6 +22,8 @@
   <img src="https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white"/>
 </p>
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=moosongsong)](https://github.com/moosongsong/github-readme-stats)
+
 <!-- 
 ## 📂 Projects
 
