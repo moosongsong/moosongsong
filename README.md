@@ -1,7 +1,6 @@
 # ✨ 송무송 ( Moo Song, Song )
 - 🎂 1998.02.08
 - 💻 Back-end Developer
-- _[WEB](https://moosongsong.github.io/)_
 - [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=songe08)](https://solved.ac/profile/songe08) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoosongsong&count_bg=%23FFA094&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 🌱 What I'm learning now.
@@ -21,9 +20,10 @@
   <img src="https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white"/>
 </p>
 
+<!-- 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=moosongsong)](https://github.com/moosongsong/github-readme-stats)
 
-<!-- 
+
 ## 📂 Projects
 
 - 🏡 [MNM : 하우스 메이트 매칭, 공동 생활 관리 서비스 제공 플랫폼](https://github.com/MeetNMate)
