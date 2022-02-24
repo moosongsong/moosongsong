@@ -1,7 +1,7 @@
 # ✨ 송무송 ( Moo Song, Song )
 - 🎂 1998.02.08
 - 💻 Back-end Developer
-- [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=songe08)](https://solved.ac/profile/songe08) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoosongsong&count_bg=%23FFA094&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
+- [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=songe08)](https://solved.ac/profile/songe08) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoosongsong&count_bg=%23FFA094&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com) [![Tistory](https://shields.io/badge/tistory-clotty--cloud-pink?logo=notion&style=flat&logoColor=white)](https://clotty-cloud.tistory.com/)
 
 ## 🌱 What I'm learning now.
 <p>
