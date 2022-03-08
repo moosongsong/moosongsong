@@ -1,6 +1,6 @@
 # 송무송 Moo Song, Song
 
-💻 BE Developer <sub><sup>현재 백수</sup></sub>   
+💻 BE Developer   
 👩‍🎓 Soongsil Univ. Computer Science  
 📌 **[BLOG](https://clotty-cloud.tistory.com)** |
 **[EMAIL](mailto:real.purple.hae.s@gmail.com)**
@@ -16,7 +16,7 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
 <details>
-<summary>⛏ Sub Skills</summary>
+<summary>Sub Skills</summary>
 <p></p>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
