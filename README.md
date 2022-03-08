@@ -6,11 +6,7 @@
 **[EMAIL](mailto:real.purple.hae.s@gmail.com)**
 
 **메이크** @EXIT-MAKE <sub><sup>서비스 파트 BE developer (2021.08 ~ 2022.02)</sup></sub>  
-**동일여자고등학교**  <sub><sup>원격 수업 지원 교사 (2020.10 ~ 2020.12)</sup></sub>
-
----
-
-### 🛠 Skills
+**동일여자고등학교**  <sub><sup>원격 수업 지원 교사 (2020.10 ~ 2020.12)</sup></sub>  
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
@@ -30,10 +26,13 @@
 
 </details>
 
-[🏡 MNM : 하우스 메이트 매칭, 공동 생활 관리 서비스 제공 플랫폼](https://github.com/MeetNMate)  
-[🎨 ARTA : 사용자 맞춤형 온라인 전시회 플랫폼](https://github.com/moosongsong/project-arta-django)  
-[🍽 1인의 만찬 : 1인 가구 전용 마감음식 픽업 서비스](https://github.com/moosongsong/project-dinner41-spring)  
-[🌎 Foreign Love : 교환학생 커뮤니티](https://github.com/moosongsong/project-foreign-love-servlet)
+[//]: # ([🏡 MNM : 하우스 메이트 매칭, 공동 생활 관리 서비스 제공 플랫폼]&#40;https://github.com/MeetNMate&#41;  )
+
+[//]: # ([🎨 ARTA : 사용자 맞춤형 온라인 전시회 플랫폼]&#40;https://github.com/moosongsong/project-arta-django&#41;  )
+
+[//]: # ([🍽 1인의 만찬 : 1인 가구 전용 마감음식 픽업 서비스]&#40;https://github.com/moosongsong/project-dinner41-spring&#41;  )
+
+[//]: # ([🌎 Foreign Love : 교환학생 커뮤니티]&#40;https://github.com/moosongsong/project-foreign-love-servlet&#41;)
 
 <br/>
 <br/>
