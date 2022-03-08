@@ -21,6 +21,7 @@
 
 <details>
 <summary>⛏ Sub Skills</summary>
+<p></p>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -29,12 +30,13 @@
 
 </details>
 
-🏡 [MNM : 하우스 메이트 매칭, 공동 생활 관리 서비스 제공 플랫폼](https://github.com/MeetNMate)  
-🎨 [ARTA : 사용자 맞춤형 온라인 전시회 플랫폼](https://github.com/moosongsong/project-arta-django)  
-🍽 [1인의 만찬 : 1인 가구 전용 마감음식 픽업 서비스](https://github.com/moosongsong/project-dinner41-spring)  
-🌎 [Foreign Love : 교환학생 커뮤니티](https://github.com/moosongsong/project-foreign-love-servlet)
+[🏡 MNM : 하우스 메이트 매칭, 공동 생활 관리 서비스 제공 플랫폼](https://github.com/MeetNMate)  
+[🎨 ARTA : 사용자 맞춤형 온라인 전시회 플랫폼](https://github.com/moosongsong/project-arta-django)  
+[🍽 1인의 만찬 : 1인 가구 전용 마감음식 픽업 서비스](https://github.com/moosongsong/project-dinner41-spring)  
+[🌎 Foreign Love : 교환학생 커뮤니티](https://github.com/moosongsong/project-foreign-love-servlet)
 
----
+<br/>
+<br/>
 
 ![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=songe08)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoosongsong&count_bg=%23FFA094&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
