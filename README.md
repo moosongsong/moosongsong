@@ -6,7 +6,7 @@
 **[EMAIL](mailto:real.purple.hae.s@gmail.com)**
 
 **메이크** @EXIT-MAKE <sub><sup>서비스 파트 BE developer (2021.08 ~ 2022.02)</sup></sub>  
-**동일여자고등학교**  <sub><sup>원격 수업 지원 교사 (2020.10 ~ 2020.12)</sup></sub>  
+**동일여자고등학교**  <sub><sup>보조 교사 (2020.10 ~ 2021.07)</sup></sub>  
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
