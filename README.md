@@ -1,6 +1,6 @@
 # 송무송 Moo Song, Song
 
-💻 BE Developer   
+💻 BE Engineer   
 👩‍🎓 Soongsil Univ. Computer Science  
 📌 **[BLOG](https://clotty-cloud.tistory.com)** |
 **[EMAIL](mailto:real.purple.hae.s@gmail.com)**
