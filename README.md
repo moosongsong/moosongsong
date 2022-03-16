@@ -3,7 +3,7 @@
 💻 BE Engineer   
 👩‍🎓 Soongsil Univ. Computer Science  
 📌 **[BLOG](https://clotty-cloud.tistory.com)** |
-**[EMAIL](mailto:real.purple.hae.s@gmail.com)**
+**[EMAIL](mailto:real.purple.hae.s@gmail.com)** | **[RESUME](https://programmers.co.kr/pr/moosong)**
 
 **메이크** @EXIT-MAKE <sub><sup>서비스 파트 BE developer (2021.08.02 ~ 2022.02.28)</sup></sub>  
 **동일여자고등학교**  <sub><sup>보조 교사 (2020.10.29 ~ 2021.07.19)</sup></sub>  
