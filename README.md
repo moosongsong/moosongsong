@@ -5,8 +5,8 @@
 📌 **[BLOG](https://clotty-cloud.tistory.com)** |
 **[EMAIL](mailto:real.purple.hae.s@gmail.com)** | **[RESUME](https://programmers.co.kr/pr/moosong)**
 
-**데브코스** @Programmers <sub><sup>BE Engineering (2022.03.18 ~ 2022.08.17)</sup></sub>  
-**메이크** @EXIT-MAKE <sub><sup>서비스 파트 BE Engineer (2021.09.01 ~ 2022.02.28)</sup></sub>  
+**데브코스** 프로그래머스  <sub><sup>BE Engineering (2022.03.18 ~ 2022.08.17)</sup></sub>  
+**메이크**  <sub><sup>서비스 파트 BE Engineer (2021.09.01 ~ 2022.02.28)</sup></sub>  
 **동일여자고등학교**  <sub><sup>보조 교사 (2020.10.29 ~ 2021.07.19)</sup></sub>  
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black)
