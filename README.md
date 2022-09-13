@@ -2,7 +2,7 @@
 
 💻 BE Engineer   
 👩‍🎓 Soongsil Univ. Computer Science  
-📌 **[BLOG](https://clotty-cloud.tistory.com)** |
+📌 **[MEDIUM](https://moosong.medium.com)** |
 **[EMAIL](mailto:real.purple.hae.s@gmail.com)** | **[RESUME](https://programmers.co.kr/pr/moosong)**
 
 **기재 예정**  <sub><sup>EC팀 BE Engineer (2022.08.18 ~ 재직중)</sup></sub>   
