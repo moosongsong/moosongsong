@@ -5,7 +5,6 @@
 📌 **[MEDIUM](https://moosong.medium.com)** |
 **[EMAIL](mailto:real.purple.hae.s@gmail.com)** | **[RESUME](https://programmers.co.kr/pr/moosong)**
 
-**기재 예정**  <sub><sup>EC팀 BE Engineer (2022.08.18 ~ 재직중)</sup></sub>   
 프로그래머스 **데브코스**  <sub><sup>BE Engineering (2022.03.18 ~ 2022.08.17)</sup></sub>   
 **메이크**  <sub><sup>서비스 파트 BE Engineer (2021.09.01 ~ 2022.02.28)</sup></sub>  
 **동일여자고등학교**  <sub><sup>보조 교사 (2020.10.29 ~ 2021.07.19)</sup></sub>  
