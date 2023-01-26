@@ -5,16 +5,12 @@
 📌 **[MEDIUM](https://moosong.medium.com)** |
 **[EMAIL](mailto:real.purple.hae.s@gmail.com)**
 
-<br/>
-
 ### 💼 Work Experience
 
 **OOO OOO**  <sub><sup>Live Team BE Engineer (2022.12 ~ now)</sup></sub>  
 **Cafe24**  <sub><sup>E-Commerce Platform Developer (2022.08 ~ 2022.12)</sup></sub>  
 **MAROMAV (MAKE)**  <sub><sup>BE Engineer (2021.08 ~ 2022.02)</sup></sub>  
 **Dongil Girls' High School**  <sub><sup>assistant teacher (2020.10 ~ 2021.07)</sup></sub>  
-
-<br/>
 
 ### ✏️ What I'm learning now.
 
