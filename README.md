@@ -8,8 +8,8 @@
 ### 💼 Work Experience
 
 **OOO OOO**  <sub><sup>Live Team BE Engineer (2022.12 ~ now)</sup></sub>  
-**Cafe24**  <sub><sup>E-commerce Platform Developer (2022.08 ~ 2022.12)</sup></sub>  
-**MAROMAV**  <sub><sup>BE Engineer (2021.08 ~ 2022.02)</sup></sub>  
+**Cafe24**  <sub><sup>E-Commerce Platform Developer (2022.08 ~ 2022.12)</sup></sub>  
+**MAROMAV (MAKE)**  <sub><sup>BE Engineer (2021.08 ~ 2022.02)</sup></sub>  
 **Dongil Girls' High School**  <sub><sup>assistant teacher (2020.10 ~ 2021.07)</sup></sub>  
 
 ---
@@ -26,6 +26,8 @@
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![Serverless Framework](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=white)
+
+---
 
 <details>
 <summary>Sub Skills</summary>
