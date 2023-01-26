@@ -5,6 +5,8 @@
 📌 **[MEDIUM](https://moosong.medium.com)** |
 **[EMAIL](mailto:real.purple.hae.s@gmail.com)**
 
+<br/>
+
 ### 💼 Work Experience
 
 **OOO OOO**  <sub><sup>Live Team BE Engineer (2022.12 ~ now)</sup></sub>  
@@ -12,7 +14,7 @@
 **MAROMAV (MAKE)**  <sub><sup>BE Engineer (2021.08 ~ 2022.02)</sup></sub>  
 **Dongil Girls' High School**  <sub><sup>assistant teacher (2020.10 ~ 2021.07)</sup></sub>  
 
----
+<br/>
 
 ### ✏️ What I'm learning now.
 
@@ -27,8 +29,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![Serverless Framework](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=white)
 
----
-
 <details>
 <summary>Sub Skills</summary>
 
@@ -37,6 +37,7 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white)
 
 </details>
+<br/>
 <br/>
 
 ![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=songe08)
