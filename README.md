@@ -1,7 +1,7 @@
 # MooSong, Song
 
 💻 BE Engineer   
-👩‍🎓 Soongsil Univ. Computer Science  
+👩‍🎓 Soongsil Univ. Computer Science <sub><sup>(2017.03 ~ 2022.02)</sup></sub>  
 📌 **[MEDIUM](https://moosong.medium.com)** |
 **[EMAIL](mailto:real.purple.hae.s@gmail.com)**
 
