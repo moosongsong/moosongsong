@@ -3,17 +3,13 @@
 💻 Backend Engineer   
 📌 **[LINKEDIN](www.linkedin.com/in/moosong)** | **[EMAIL](mailto:real.purple.hae.s@gmail.com)**
 
-### 💼 Work Experience
+### # Work Experience
 
 **Weverse Company**  <sub><sup>Live Team - Backend Engineer (2022.12 ~ now)</sup></sub>  
 **Cafe24**  <sub><sup>E-Commerce Group - Platform Engineer (2022.08 ~ 2022.12)</sup></sub>  
 **MAROMAV**  <sub><sup>Service Part - Backend Engineer (2021.08 ~ 2022.02)</sup></sub>  
 
-### ✏️ What I'm learning now.
-
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache%20kafka&logoColor=White)
-
-### ☺️ What I can do.
+### # What I can do.
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
