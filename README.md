@@ -7,15 +7,14 @@
 
 📌 **[CV](https://moosongsong.github.io/cv)** | **[EMAIL](mailto:real.purple.hae.s@gmail.com)**
 
+<br/>
+<br/>
+
 ### 💼 Work Experiences
 
 **Weverse Company**  <sub><sup>Live Team - Backend Engineer (2022.12 ~ now)</sup></sub>  
 **Cafe24**  <sub><sup>E-Commerce Group - Platform Engineer (2022.08 ~ 2022.12)</sup></sub>  
 **MAROMAV**  <sub><sup>Service Part - Backend Engineer (2021.08 ~ 2022.02)</sup></sub>  
-
-### # What I can do.
-
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black)
 
 <br/>
 <br/>
