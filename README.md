@@ -1,13 +1,13 @@
 # MooSong, Song
 
-💻 BE Engineer   
-📌 **[LinkedIn](www.linkedin.com/in/moosong)** | **[EMAIL](mailto:real.purple.hae.s@gmail.com)**
+💻 Backend Engineer   
+📌 **[LINKEDIN](www.linkedin.com/in/moosong)** | **[EMAIL](mailto:real.purple.hae.s@gmail.com)**
 
 ### 💼 Work Experience
 
-**Weverse Company**  <sub><sup>Live Team - BE Engineer (2022.12 ~ now)</sup></sub>  
+**Weverse Company**  <sub><sup>Live Team - Backend Engineer (2022.12 ~ now)</sup></sub>  
 **Cafe24**  <sub><sup>E-Commerce Group - Platform Engineer (2022.08 ~ 2022.12)</sup></sub>  
-**MAROMAV**  <sub><sup>Service Part - BE Engineer (2021.08 ~ 2022.02)</sup></sub>  
+**MAROMAV**  <sub><sup>Service Part - Backend Engineer (2021.08 ~ 2022.02)</sup></sub>  
 
 ### ✏️ What I'm learning now.
 
