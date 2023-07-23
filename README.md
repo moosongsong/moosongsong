@@ -1,7 +1,7 @@
 # MooSong, Song
 
 💻 Backend Engineer   
-📌 **[CV](https://moosongsong.github.io/cv)** | **[EMAIL](mailto:real.purple.hae.s@gmail.com)**
+📌 **[EMAIL](mailto:real.purple.hae.s@gmail.com)**
 
 <br/>
 
