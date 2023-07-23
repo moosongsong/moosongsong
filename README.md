@@ -8,7 +8,6 @@
 📌 **[CV](https://moosongsong.github.io/cv)** | **[EMAIL](mailto:real.purple.hae.s@gmail.com)**
 
 <br/>
-<br/>
 
 ### 💼 Work Experiences
 
