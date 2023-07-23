@@ -1,10 +1,6 @@
 # MooSong, Song
 
 💻 Backend Engineer   
-
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)   
-
 📌 **[CV](https://moosongsong.github.io/cv)** | **[EMAIL](mailto:real.purple.hae.s@gmail.com)**
 
 <br/>
