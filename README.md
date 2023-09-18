@@ -8,16 +8,8 @@
 ### 💼 Work Experiences
 
 **[Weverse Company](https://weverse.io)**  <sub><sup>Live Team - Backend Engineer (2022.12 ~ now)</sup></sub>  
-
-- Java, SpringBoot, Apache Kafka, Kafka Streams
-
-**[Cafe24](https://www.cafe24.com)** <sub><sup>E-Commerce Group - Platform Engineer (2022.08 ~ 2022.12)</sup></sub>
-  
-- PHP, JavaScript, Python
-
-**[MAROMAV](https://www.trymake.co)**  <sub><sup>Service Part - Backend Engineer (2021.08 ~ 2022.02)</sup></sub>
-  
-- TypeScript, NestJs, Serverless Framework
+**[Cafe24](https://www.cafe24.com)** <sub><sup>E-Commerce Group - Platform Engineer (2022.08 ~ 2022.12)</sup></sub>  
+**[MAROMAV](https://www.trymake.co)**  <sub><sup>Service Part - Backend Engineer (2021.08 ~ 2022.02)</sup></sub>  
 
 <br/>
 <br/>
